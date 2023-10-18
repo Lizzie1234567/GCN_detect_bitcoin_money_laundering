@@ -1,0 +1,7 @@
+,model,Precision,Recall,F1 Score,M.A F1 Score
+0,Random Forest Classifier (tx),0.909,0.648,0.757,0.974
+1,Random Forest Classifier (tx + agg),0.981,0.651,0.782,0.977
+2,Logistic Regression (tx),0.515,0.646,0.573,0.939
+3,Logistic Regression (tx + agg),0.456,0.63,0.529,0.929
+4,Dense neural network (tx),0.908,0.581,0.709,0.97
+5,Dense neural network (tx + agg),0.845,0.546,0.663,0.965
